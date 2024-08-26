@@ -42,6 +42,10 @@ This project involves analyzing the data of Pakistani universities, focusing on 
    - Screenshot of MySQL terminal showing `SELECT * FROM Uni_list LIMIT 10` query result, confirming data load.
    - ![MySQL Data Loaded](https://github.com/Hanan-Nawaz/Pakistani_Universities_Analysis/blob/main/Supporting%20Material/db.png)
 
+2. **Tableau Dashboard**:
+   - Screenshot of Tableau Dashboard.
+   - ![Tableau Dashboard](https://github.com/Hanan-Nawaz/Pakistani_Universities_Analysis/blob/main/Supporting%20Material/dashboard.png)
+
 ## Getting Started
 
 To reproduce this project, follow these steps:

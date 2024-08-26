@@ -1,6 +1,6 @@
 # Pakistani Universities Analysis
 
-![Logo](https://github.com/Hanan-Nawaz/Pakistani_Universities_Analysis/blob/main/Supporting%20Material/logo.png)
+<img src="https://github.com/Hanan-Nawaz/Pakistani_Universities_Analysis/blob/main/Supporting%20Material/logo.png" width="100%" />
 
 ## Project Overview
 
